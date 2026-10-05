@@ -1,0 +1,6 @@
+title: 라이언의 기록
+url: https://oddpennine.github.io
+baseurl: /lion-melody
+timezone: Asia/Seoul
+permalink: /posts/:year/:month/:day/:title/
+markdown: kramdown
